@@ -191,6 +191,7 @@ p { margin: 0; }
    Marquee
    =========================================================== */
 .marquee {
+  display: block;
   background: var(--white);
   padding-block: 30px;
   overflow: hidden;
