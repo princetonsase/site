@@ -2,8 +2,7 @@ node_modules/
 package.json
 package-lock.json
 _shots/
-_shot.js
-_parse.js
+_*.js
 page.html
 page-*.html
 index.json
